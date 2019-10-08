@@ -11,7 +11,7 @@ class Shoe
   #   @title = title
   # end
  
-  def shoe_repair
+  def cobble
     puts "Shoe has been repaired."
   end
  
