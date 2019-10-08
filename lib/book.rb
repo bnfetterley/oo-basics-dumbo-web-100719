@@ -31,12 +31,8 @@ class Book
     @genre
   end
   
-  
-  
-  # def property=(something)
-  #   @property = something
-  # end
-  
+  def turn_page
+  end
   
   
 end
