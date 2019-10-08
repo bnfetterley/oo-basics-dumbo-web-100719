@@ -7,8 +7,8 @@ class Shoe
   #   @title = title
   # end
  
-  def turn_page
-    puts "Flipping the page...wow, you read fast!"
+  def shoe_repair
+    puts "Shoe has been repaired."
   end
  
 end# Make your shoe class here!
